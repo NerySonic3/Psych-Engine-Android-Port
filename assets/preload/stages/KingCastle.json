@@ -1,0 +1,9 @@
+{
+	"directory": "ytp",
+	"defaultZoom": 1.09,
+	"isPixelStage": false,
+
+	"boyfriend": [162, -86],
+	"girlfriend": [140, 80],
+	"opponent": [-140, 150]
+}
