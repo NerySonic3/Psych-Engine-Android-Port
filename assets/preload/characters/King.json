@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-432,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "King Idle"
+		},
+		{
+			"offsets": [
+				-410,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "King Left Note"
+		},
+		{
+			"offsets": [
+				-430,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "King Right Note"
+		},
+		{
+			"offsets": [
+				-410,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "King Down Note"
+		},
+		{
+			"offsets": [
+				-444,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "King Up Note"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/King",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "king",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
