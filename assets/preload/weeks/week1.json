@@ -1,19 +1,17 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Anchored", "weegee", [0, 97, 62]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "weegee",
 
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
+	"storyName": "WEEGEE",
+	"weekBefore": "week1",
 	"weekName": "Week 1",
 	"startUnlocked": true,
 

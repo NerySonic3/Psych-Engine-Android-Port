@@ -1,18 +1,16 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		["Lazer", "octo", [80, 80, 80]]
 	],
 
 	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "philly",
+	"weekBackground": "doc",
 
-	"storyName": "PICO",
+	"storyName": "Dr.Octagonapus",
 	"weekBefore": "week2",
 	"weekName": "Week 3",
 	"startUnlocked": true,
